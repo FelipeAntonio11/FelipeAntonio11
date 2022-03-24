@@ -10,6 +10,6 @@
 
   <div align="center">
   
-  ![Snake animation](https://github.com/felipeantonio11/felipeantonio11/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FelipeAntonio11/FelipeAntonio11/blob/output/github-contribution-grid-snake.svg)
   
 </div>
